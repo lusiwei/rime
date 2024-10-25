@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	3
+#@/user_id	05ef3ed7-fb73-40c3-99c8-be6127d3c72c
+ke yi 	可以	c=1 d=1 t=2
+ma 	嗎	c=1 d=1 t=3
+ni hui cong 	你會從	c=1 d=1 t=1
